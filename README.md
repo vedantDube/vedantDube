@@ -40,9 +40,6 @@ Grammar-based parser converting 100+ inconsistent OpenFOAM case configs into str
 
 **[Multi-Actor DRL for RIS-IAB Networks](https://github.com/vedantDube/Hybrid_RIS)** — IEEE paper, submitted/under review
 First-author work combining DistilBERT and DDPG for sparse hybrid RIS-assisted networks, improving energy efficiency by 17.4–42.1%.
-
-**[NOMA-ISAC with DRL](https://github.com/vedantDube/noma_isac-with-drl)**
-Extended a published near-field integrated sensing & communications simulation framework (Wang et al., *IEEE Commun. Lett.* 2023) with DRL-based experiments — training and comparing reinforcement learning policies against the baseline algorithm for adaptive sensing/communication tradeoffs.
 `MATLAB` `Reinforcement Learning`
 
 ---
