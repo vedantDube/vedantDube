@@ -53,4 +53,3 @@ First-author work combining DistilBERT and DDPG for sparse hybrid RIS-assisted n
 
 ---
 
-<p align="center"><i>Always happy to talk about distributed systems, RL, or why CFG parsers are underrated. Reach out via <a href="mailto:vedhem999@gmail.com">email</a> or <a href="https://linkedin.com/in/vedant-dubey-55a934287">LinkedIn</a>.</i></p>
